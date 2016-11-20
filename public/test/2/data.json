@@ -1,0 +1,65 @@
+{
+    "document": {
+        "height": 830,
+        "width": 590
+    },
+    "images": [
+        {
+            "position": {
+                "height": 156,
+                "left": 192,
+                "top": 155,
+                "width": 238
+            },
+            "uri": "images/magazine.png"
+        },
+        {
+            "position": {
+                "height": 390,
+                "left": 130,
+                "top": 45,
+                "width": 660
+            },
+            "uri": "images/online-editor-large.png"
+        },
+        {
+            "position": {
+                "height": 390,
+                "left": 144,
+                "top": 12,
+                "width": 660
+            },
+            "uri": "images/online-editor-large.png"
+        },
+        {
+            "position": {
+                "height": 604,
+                "left": 0,
+                "top": 50,
+                "width": 608
+            },
+            "uri": "images/sharing-illustration@2x.png"
+        },
+        {
+            "position": {
+                "height": 156,
+                "left": 380,
+                "top": 13,
+                "width": 238
+            },
+            "uri": "images/magazine.png"
+        }
+    ],
+    "texts": [
+        {
+            "color": "#83b334",
+            "position": {
+                "height": 239,
+                "left": 161,
+                "top": 161,
+                "width": 268
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis n"
+        }
+    ]
+}

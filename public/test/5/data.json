@@ -1,0 +1,105 @@
+{
+    "document": {
+        "height": 1165,
+        "width": 741
+    },
+    "images": [
+        {
+            "position": {
+                "height": 604,
+                "left": 45,
+                "top": 430,
+                "width": 608
+            },
+            "uri": "images/sharing-illustration@2x.png"
+        },
+        {
+            "position": {
+                "height": 390,
+                "left": 293,
+                "top": 406,
+                "width": 660
+            },
+            "uri": "images/online-editor-large.png"
+        },
+        {
+            "position": {
+                "height": 390,
+                "left": 199,
+                "top": 392,
+                "width": 660
+            },
+            "uri": "images/online-editor-large.png"
+        },
+        {
+            "position": {
+                "height": 618,
+                "left": 38,
+                "top": 25,
+                "width": 498
+            },
+            "uri": "images/tpl-1@2x.png"
+        },
+        {
+            "position": {
+                "height": 604,
+                "left": 28,
+                "top": 484,
+                "width": 608
+            },
+            "uri": "images/sharing-illustration@2x.png"
+        }
+    ],
+    "texts": [
+        {
+            "color": "#4a3faf",
+            "position": {
+                "height": 332,
+                "left": 465,
+                "top": 611,
+                "width": 258
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor "
+        },
+        {
+            "color": "#bc7f21",
+            "position": {
+                "height": 469,
+                "left": 202,
+                "top": 485,
+                "width": 490
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,"
+        },
+        {
+            "color": "#6d0986",
+            "position": {
+                "height": 329,
+                "left": 276,
+                "top": 824,
+                "width": 418
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamc"
+        },
+        {
+            "color": "#e5ad1d",
+            "position": {
+                "height": 345,
+                "left": 400,
+                "top": 19,
+                "width": 245
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commod"
+        },
+        {
+            "color": "#162f76",
+            "position": {
+                "height": 296,
+                "left": 149,
+                "top": 697,
+                "width": 287
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut en"
+        }
+    ]
+}

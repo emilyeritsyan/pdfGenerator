@@ -1,0 +1,6 @@
+/vendor
+/node_modules
+.env
+/public/angular/nbproject/private/
+/resources/views/angular/nbproject/private/
+/resources/angular/nbproject/private/

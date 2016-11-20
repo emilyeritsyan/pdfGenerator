@@ -1,0 +1,89 @@
+{
+    "document": {
+        "height": 1020,
+        "width": 648
+    },
+    "images": [],
+    "texts": [
+        {
+            "color": "#c86bc7",
+            "position": {
+                "height": 335,
+                "left": 415,
+                "top": 303,
+                "width": 211
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mo"
+        },
+        {
+            "color": "#ab62eb",
+            "position": {
+                "height": 354,
+                "left": 168,
+                "top": 32,
+                "width": 296
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea c"
+        },
+        {
+            "color": "#5c2fda",
+            "position": {
+                "height": 348,
+                "left": 101,
+                "top": 112,
+                "width": 458
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ul"
+        },
+        {
+            "color": "#4e5c21",
+            "position": {
+                "height": 358,
+                "left": 204,
+                "top": 631,
+                "width": 215
+            },
+            "text": "Lorem ipsum dolor sit amet, consec"
+        },
+        {
+            "color": "#4c620b",
+            "position": {
+                "height": 212,
+                "left": 61,
+                "top": 87,
+                "width": 494
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commo"
+        },
+        {
+            "color": "#f13eca",
+            "position": {
+                "height": 210,
+                "left": 340,
+                "top": 275,
+                "width": 207
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut la"
+        },
+        {
+            "color": "#d002ac",
+            "position": {
+                "height": 442,
+                "left": 156,
+                "top": 438,
+                "width": 446
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint oc"
+        },
+        {
+            "color": "#535f6b",
+            "position": {
+                "height": 224,
+                "left": 262,
+                "top": 437,
+                "width": 264
+            },
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim a"
+        }
+    ]
+}

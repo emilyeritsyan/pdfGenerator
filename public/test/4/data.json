@@ -1,0 +1,36 @@
+{
+    "document": {
+        "height": 1079,
+        "width": 539
+    },
+    "images": [
+        {
+            "position": {
+                "height": 390,
+                "left": 41,
+                "top": 298,
+                "width": 660
+            },
+            "uri": "images/online-editor-large.png"
+        },
+        {
+            "position": {
+                "height": 156,
+                "left": 311,
+                "top": 793,
+                "width": 238
+            },
+            "uri": "images/magazine.png"
+        },
+        {
+            "position": {
+                "height": 156,
+                "left": 205,
+                "top": 718,
+                "width": 238
+            },
+            "uri": "images/magazine.png"
+        }
+    ],
+    "texts": []
+}

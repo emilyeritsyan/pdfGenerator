@@ -1,0 +1,76 @@
+
+<div class="container-fluid mainDiv toppull">
+    <div class="row">
+        <!-- Page Content -->
+        <div class="container">
+
+            <div class="row">
+
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+        <div class="container">
+            <div class="well">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <pre>This application is for generating PDF files from JSON data.<br/>
+                        Application uses https://www.pdflib.com/ library.
+                        It changes the given css type locations to pdf that is
+                        (x,y) of the html which starts from the left top corner to
+                        (x,y) pdflib to left bottom corner.
+                        All test data located in project public/ dir named test.
+                        The configuration should be by virtual hosts located :
+                        <b>DocumentRoot [path to project]/generator/public</b> 
+                        The structure of the JSON is following:</pre>
+                        <pre>
+                        {
+                            "document": {
+                                "height": xxx,
+                                "width": xxx
+                            },
+                            "images": [
+                                {
+                                    "position": {
+                                        "height": xxx,
+                                        "left": xxx,
+                                        "top": xxx,
+                                        "width": xxx
+                                    },
+                                    "uri": "DIR/FILENAME.EXTENSION"
+                                },...
+
+                            ],
+                            "texts": [
+                                {
+                                    "color": "# +hex FORMAT",
+                                    "position": {
+                                        "height": XXX,
+                                        "left": XXX,
+                                        "top": XXX,
+                                        "width": XXX
+                                    },
+                                    "text": "SIMPLE TEXT"
+                                },...
+                            ]
+                        }
+                        </pre>
+                    </div>
+                </div>
+
+                <hr>
+                <hr>  
+                <!-- Footer -->
+                <footer>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <p>Copyright &copy; Pdf Generator 2016</p>
+                        </div>
+                    </div>
+                </footer>
+
+            </div>
+            <!-- /.container -->
+        </div>        </div> </div>

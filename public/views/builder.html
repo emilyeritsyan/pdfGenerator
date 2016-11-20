@@ -1,0 +1,44 @@
+
+<div class="container-fluid mainDiv toppull">
+    <div class="row">
+        <!-- Page Content -->
+        <div class="container">
+
+            <div class="row">
+
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+        <div class="container">
+            <div class="well">
+            <div class="row">
+                    <div class="col-md-12">
+
+                        
+                        <p>Here are PDF documents.</p>
+                        <p>Click on them and it will automatically open it.</p>
+                        <p>Json files can be added in /public folder.</p>
+                    </div>
+                </div>      
+                <div class="text-center separator" ng-repeat="(key, val) in pdfDocuments" >
+                    <a  ng-click="openPDF(val)" class="btn btn-success">{{val}}.pdf load</a>
+                </div><br/>
+                <hr>
+
+                
+
+                <hr>  
+                <!-- Footer -->
+                <footer>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <p>Copyright &copy; Pdf Generator 2016</p>
+                        </div>
+                    </div>
+                </footer>
+
+            </div>
+            <!-- /.container -->
+        </div>        </div> </div>
