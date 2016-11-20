@@ -27,7 +27,6 @@ The structure of the JSON is following:
             },
             "uri": "DIR/FILENAME.EXTENSION"
         },...
-
     ],
     "texts": [
         {
